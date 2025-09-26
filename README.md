@@ -3,7 +3,7 @@
 A **responsive photo gallery** website where users can browse images and view them in a larger modal view. Built using **HTML, CSS, JavaScript, Bootstrap, and jQuery**.
 
 ---
-**Live Demo :** [Click here]()
+**Live Demo :** [Click here](https://femieliz27-hash.github.io/photo-gallery/)
 
 ---
 
