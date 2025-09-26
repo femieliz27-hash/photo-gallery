@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.gallery-img {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.gallery-img:hover {
+  transform: scale(1.05);
+}
+
+.modal-img {
+  width: 100%;
+  height: auto;
+}
